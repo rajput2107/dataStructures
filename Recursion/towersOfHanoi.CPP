@@ -1,6 +1,7 @@
 #include<iostream>
 #include<conio>
 
+//function
 void TOH(int n, char frompeg, char topeg, char auxpeg)
 {
 	if(n==1)
