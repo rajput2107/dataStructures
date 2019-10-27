@@ -1,3 +1,4 @@
+//code
 def fact(n):
     if n==1: #terminating condition
         return 1
